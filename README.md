@@ -60,14 +60,6 @@ This project aims to address the heightened risk of diabetes in women with Polyc
 2. **Running the Model**: Use Jupyter notebooks for preprocessing, training, and evaluation.
 3. **Exploring Results**: Check SHAP plots and metrics to understand insights.
 
-## **Project Structure**
-
-- **`data/`**: Sample data files.
-- **`notebooks/`**: Jupyter notebooks.
-- **`models/`**: Saved models.
-- **`results/`**: Evaluation metrics and SHAP results.
-- **`requirements.txt`**: Dependencies.
-
 ## **Conclusion**
 
 This project tackles a significant healthcare challenge by predicting diabetes risk in PCOS patients. The approach combines advanced machine learning techniques with clinical insights, offering valuable tools for early intervention and personalized patient care.
