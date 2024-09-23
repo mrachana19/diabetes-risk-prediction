@@ -49,17 +49,6 @@ This project aims to address the heightened risk of diabetes in women with Polyc
   - Insulin levels and low physical activity are critical factors.
   - Age and insulin resistance further amplify the risk.
 
-## **How to Use This Repository**
-
-1. **Installation**:
-   ```bash
-   git clone <repo_link>
-   cd <repo_folder>
-   pip install -r requirements.txt
-   ```
-2. **Running the Model**: Use Jupyter notebooks for preprocessing, training, and evaluation.
-3. **Exploring Results**: Check SHAP plots and metrics to understand insights.
-
 ## **Conclusion**
 
 This project tackles a significant healthcare challenge by predicting diabetes risk in PCOS patients. The approach combines advanced machine learning techniques with clinical insights, offering valuable tools for early intervention and personalized patient care.
